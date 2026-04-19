@@ -1,0 +1,1 @@
+This is a frontend design project for SafeCare Clinix Hospital 
